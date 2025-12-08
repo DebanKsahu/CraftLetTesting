@@ -1,0 +1,11 @@
+{
+    "AuthorName": {
+        "prompt": "Enter the Author Name",
+        "input": ""
+    },
+
+    "BookName": {
+        "prompt": "Enter The Book Name",
+        "input": ""
+    }
+}
