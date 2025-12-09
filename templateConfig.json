@@ -2,11 +2,13 @@
     "AuthorDetail": {
         "AuthorFirstName": {
             "prompt": "Enter the First Name of Author",
-            "input": ""
+            "input": "",
+            "isEnv": true
         },
         "AuthorLastName": {
             "prompt": "Enter the Last Name of Author",
-            "input": ""
+            "input": "",
+            "isEnv": true
         }
     },
 
