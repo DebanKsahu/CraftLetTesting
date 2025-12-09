@@ -1,7 +1,13 @@
 {
-    "AuthorName": {
-        "prompt": "Enter the Author Name",
-        "input": ""
+    "AuthorDetail": {
+        "AuthorFirstName": {
+            "prompt": "Enter the First Name of Author",
+            "input": ""
+        },
+        "AuthorLastName": {
+            "prompt": "Enter the Last Name of Author",
+            "input": ""
+        }
     },
 
     "BookName": {
@@ -9,3 +15,4 @@
         "input": ""
     }
 }
+
